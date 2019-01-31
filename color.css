@@ -1,0 +1,35 @@
+p {
+    text-align: center;
+}
+h2 {
+    text-align: center;
+}
+body{
+    text-align: center;
+}
+h1{
+    color: yellow;
+}
+p{
+    color: yellowgreen;
+}
+body{
+    background-color: black;
+}
+ul{
+    color: yellow;
+}
+li{
+    color: yellow;
+}
+a{
+    color: yellow;
+}
+div{
+    position:relative;
+    right: -20px;
+    border: 5px blue;
+}
+h2{
+    color: purple;
+}
